@@ -10,7 +10,7 @@
 ## Creating chape classes and finding areas and perimeters. 
 # Project7
 ## Using Git-Hub to recap the course
-### [Project 7](https://www.google.com "Google's Homepage")
+### [Project 7](https://github.com/karanvazirani/p7.git)
 
 # Lab1
 ## Install and setup your personal computer with the software tools required for this course
