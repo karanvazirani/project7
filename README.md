@@ -25,28 +25,28 @@
 ### [lab 01](https://github.com/karanvazirani/lab-01.git)
 # Lab2
 ## Use CLI commands for directory and file manipulation
-### [lab 01](https://github.com/karanvazirani/lab-02.git)
+### [lab 02](https://github.com/karanvazirani/lab-02.git)
 # Lab3
 ## Practice refactoring JavaScript code to use more modern syntax
-### [lab 01](https://github.com/karanvazirani/lab-03.git)
+### [lab 03](https://github.com/karanvazirani/lab-03.git)
 # Lab4
 ## Create initial Fastify Node.js web server
-### [lab 01](https://github.com/karanvazirani/lab-04.git)
+### [lab 04](https://github.com/karanvazirani/lab-04.git)
 # Lab5
 ## Download and install Postman
-### [lab 01](https://github.com/karanvazirani/lab-05.git)
+### [lab 05](https://github.com/karanvazirani/lab-05.git)
 # Lab6
 ## Join GitHub and work through Introduction to GitHub course
-### [lab 01](https://github.com/karanvazirani/lab-06.git)
+### [lab 06](https://github.com/karanvazirani/lab-06.git)
 # Lab7
 ##  Create your own GitHub organization for the CIT Minor
-### [lab 01](https://github.com/karanvazirani/lab-07.git)
+### [lab 07](https://github.com/karanvazirani/lab-07.git)
 # Lab8
 ## Add fastify and node-fetch require statements
-### [lab 01](https://github.com/karanvazirani/lab-08.git)
+### [lab 08](https://github.com/karanvazirani/lab-08.git)
 # Lab9
 ## Working through the GitHub Learning Lab Create a release based workflow  course.
-### [lab 01](https://github.com/karanvazirani/lab-09.git)
+### [lab 09](https://github.com/karanvazirani/lab-09.git)
 
 
 
