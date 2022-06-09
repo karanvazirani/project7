@@ -3,19 +3,19 @@
 ### [Project 1](https://github.com/karanvazirani/p1.git)
 # Project2
 ## Gain experience writing and executing non-web server Node.js JavaScript code
-### [Project 2](https://github.com/karanvazirani/p1.git)
+### [Project 2](https://github.com/karanvazirani/p2.git))
 # Project3
 ## Creating a "coinage" code module that is capable of calculating the total value of coin objects.
-### [Project 3](https://github.com/karanvazirani/p1.git)
+### [Project 3](https://github.com/karanvazirani/p3.git)
 # Project4
 ## Creating a REST API that works with a "data" source of questions and answers
-### [Project 4](https://github.com/karanvazirani/p1.git)
+### [Project 4](https://github.com/karanvazirani/p4.git)
 # Project 5
 ## This was an extra credit project where we had to create a monstor game
-### [Project 5](https://github.com/karanvazirani/p1.git)
+### [Project 5](https://github.com/karanvazirani/p5.git)
 # Project6
 ## Creating chape classes and finding areas and perimeters. 
-### [Project 6](https://github.com/karanvazirani/p1.git)
+### [Project 6](https://github.com/karanvazirani/p6.git)
 # Project7
 ## Using Git-Hub to recap the course
 ### [Project 7](https://github.com/karanvazirani/p7.git)
